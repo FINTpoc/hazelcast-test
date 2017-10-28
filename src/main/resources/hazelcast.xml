@@ -9,4 +9,6 @@
         <password>fint-hazelcast</password>
     </group>
 
+    <management-center enabled="true">http://management-center:8080/mancenter</management-center>
+
 </hazelcast>
